@@ -1,0 +1,7 @@
+DATABASE^UNIVERSITY
+TABLE^STUDNET
+COLUMN>student_id>int
+COLUMN>student_name>varchar
+TABLE^STUDENT
+COLUMN>student_id>int
+COLUMN>student_name>varchar

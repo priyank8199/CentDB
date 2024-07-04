@@ -1,0 +1,3 @@
+TABLE^STUDNET
+COLUMN>student_id>int
+COLUMN>student_name>varchar
